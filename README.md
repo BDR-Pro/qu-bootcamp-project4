@@ -13,13 +13,13 @@ The BB84 protocol is a quantum key distribution scheme that allows two parties, 
 
 **Question 2: Key Generation**
 
-In the BB84 protocol, Alice sends a series of random qubits to Bob, and they both perform measurements to establish the shared secret key. For this question, generate a random qubit sequence of length n  for Alice's qubits. Perform the measurements on these random qubits using the BB84 protocol. Show the measurement results for each qubit, and identify the bits that contribute to the final shared secret key.
+In the BB84 protocol, Alice sends a series of random qubits to Bob,  For this question, generate a random qubit sequence of length n for Alice's qubits. Show the measurement results for each qubit, and identify the bits that contribute to the final shared secret key.
 
 ---
 
 Question 3: Eavesdropper
 
-In this scenario, Eve, the eavesdropper,will  choose to intercept the qubits exchanged between Alice and Bob. Generate a random binary sequence of length n, where each bit represents whether Eve attempts to intercept the corresponding qubit. For each intercepted qubit.
+In this scenario, Eve, the eavesdropper, will choose to intercept the qubits exchanged between Alice and Bob. check the BB84 Protocol with the presence of eve  .
 
 ---
 
